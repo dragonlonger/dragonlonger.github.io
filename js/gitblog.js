@@ -3,8 +3,8 @@ var config = {
     repo : "dragonlonger.github.io",
     client_id : "e803bb16cc4fd213e55b",
     client_secret : "0b0bfae44b05b01cdc9f650e83d0293bca90b0fb",
-    title : "Ready",
-    instruction : "xieshengniubi",
+    title : "dragonlonger's blog",
+    instruction : "keep learning",
     server_link : 'http://119.23.8.25/gh-oauth-server.php',
     friends : {
         //add your friends link here
